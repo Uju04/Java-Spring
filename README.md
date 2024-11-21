@@ -3,7 +3,7 @@
 <br>
 In the previous class we learnt about Spring, how to create a spring project either from intelli j ultimate or from Spring.io.
 <br>
-We also learnt about various dependencies and the function. Some dependencies we used were
+We also learnt about various dependencies and their function. Some dependencies we used in the class
 <br>
 1. Spring web
 <br>
